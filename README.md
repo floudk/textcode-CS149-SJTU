@@ -3,6 +3,6 @@
 
  All code and comments are written and checked by myself,so it's possible that I have made some subtle mistakes.
  
- And some kind of methods are definitely not a good idea, please make sure you know that.
+ And some kind of methods are definitely not concise idea, please make sure you know that.
  
- In the code, I try not to use STL except something correlated to graph algorithm.
+ In these files, I try not to use STL except something correlated to graph algorithms.
